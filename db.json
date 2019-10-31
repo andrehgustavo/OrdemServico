@@ -1,6 +1,7 @@
 { 
 	"os":[
 		{
+			"id": 1,
 			"cliente_id": 6055,
 			"cliente_email": "",
 			"endereco_id": 18633,
@@ -48,6 +49,7 @@
 			"servico_onu_pon": 14
 		},
 		{
+			"id": 2,
 			"cliente_id": 6056,
 			"cliente_email": "",
 			"endereco_id": 18633,
